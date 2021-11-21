@@ -70,7 +70,7 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
-                    <meta name="title" content={seoDescription} />
+                    <meta name="title" content={seoTitle} />
                     <meta name="description" content={seoDescription} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
