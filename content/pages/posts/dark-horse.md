@@ -10,6 +10,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/dark-horse.jpeg
+excerpt: 《黑馬思維》作者哈佛大學教授陶德．羅斯（Todd Rose）想告訴我們：
 ---
 ![](https://images.pexels.com/photos/6134690/pexels-photo-6134690.jpeg?auto=compress\&cs=tinysrgb\&h=750\&w=1260)
 
