@@ -1,7 +1,7 @@
 ---
 title: 《黑馬思維》個人化的成功，就是兼顧實現自我和成就卓越
 date: '2021-11-21'
-content_img_alt: lorem-ipsum
+
 seo:
   title: '《黑馬思維》個人化的成功，就是兼顧實現自我和成就卓越'
   description: >-
