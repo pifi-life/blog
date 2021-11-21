@@ -74,7 +74,7 @@ export default class Body extends React.Component {
                     <meta name="title" content={seoTitle} />
                     <meta name="description" content={seoDescription} />
                     <meta property="og:type" content="website" />
-                    <meta property="og:url" content="https://metatags.io/" />
+                    <meta property="og:url" content={domain} />
                     <meta property="og:title" content={seoTitle} />
                     <meta property="og:description" content={seoDescription} />
                     <meta property="og:image" content={thumbImage} />
