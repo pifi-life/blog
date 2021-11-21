@@ -10,11 +10,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
