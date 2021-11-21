@@ -7,7 +7,6 @@ export { contact, home, page, post };
 
 export default {
     contact,
-    home,
     page,
     post
 };
