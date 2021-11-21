@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import _ from 'lodash';
 
-import { getPageUrl, classNames withPrefix} from '../utils';
+import { classNames, getPageUrl, withPrefix } from '../utils';
 import Header from './Header';
 import Subscribe from './Subscribe';
 import Footer from './Footer';
