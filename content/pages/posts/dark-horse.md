@@ -3,7 +3,7 @@ title: 《黑馬思維》個人化的成功，就是兼顧實現自我和成就�
 date: '2021-11-21'
 seo:
   title: '《黑馬思維》個人化的成功，就是兼顧實現自我和成就卓越'
-  description: ''
+  description: '《黑馬思維》作者哈佛大學教授陶德．羅斯（Todd'
   robots: []
   extra: []
 layout: post
