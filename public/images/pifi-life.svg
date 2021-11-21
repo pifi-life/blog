@@ -1,0 +1,11 @@
+<svg width="150" height="55" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" filter="url(#svg_1_blur)" transform="matrix(1.56642 0 0 1.56642 -55.4313 -35.6578)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'El Messiri'" font-size="24" id="svg_1" y="49.29451" x="37.72321" stroke-width="0" fill="#000000">PIFI.LIFE</text>
+ </g>
+</svg>
