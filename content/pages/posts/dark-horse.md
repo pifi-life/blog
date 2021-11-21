@@ -63,7 +63,7 @@ excerpt: >-
 
 > 你們的時間有限，不要浪費時間活在別人的眼光裡。不要被教條所侷限，盲從教條就是活在別人思考框架裡。不要讓別人的意見淹沒了你內心的聲音。最重要的，擁有追隨自己內心和直覺的勇氣，你的內心和直覺已經知道你真正想要成為什麼樣的人，任何其他事物都是次要的。
 
-Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice, and most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+Y>our time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice, and most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
 
 史蒂夫說的幾乎就是「黑馬思維」。
 
