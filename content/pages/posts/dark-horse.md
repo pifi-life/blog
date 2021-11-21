@@ -64,7 +64,6 @@ excerpt: >-
 > 你們的時間有限，不要浪費時間活在別人的眼光裡。不要被教條所侷限，盲從教條就是活在別人思考框架裡。不要讓別人的意見淹沒了你內心的聲音。最重要的，擁有追隨自己內心和直覺的勇氣，你的內心和直覺已經知道你真正想要成為什麼樣的人，任何其他事物都是次要的。
 Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice, and most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
 
-
 史蒂夫說的幾乎就是「黑馬思維」。
 
 最後，記得《黑馬思維》要告訴我們的：「**個人化的成功，就是兼顧實現自我和成就卓越。**」筆者認為「實現自我」就是追尋「理想」，而「成就卓越」就是取得（一定程度的）「現實」成果。所以，**個人化的成功和幸福，是兼顧理想與現實的，也就是從事理想的志業並且同時取得現實的成果**。
