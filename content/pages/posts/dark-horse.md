@@ -12,7 +12,7 @@ seo:
   extra: []
 layout: post
 ---
-## 《黑馬思維》個人化的成功，就是兼顧實現自我和成就卓越
+##
 
 ![](https://images.pexels.com/photos/6134690/pexels-photo-6134690.jpeg)
 
