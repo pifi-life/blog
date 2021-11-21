@@ -73,8 +73,10 @@ export default class Body extends React.Component {
                     <meta name="title" content={seoTitle} />
                     <meta name="description" content={seoDescription} />
                     <meta property="og:type" content="website" />
+                    <meta property="og:url" content="https://metatags.io/" />
                     <meta property="og:title" content={seoTitle} />
                     <meta property="og:description" content={seoDescription} />
+                    <meta property="og:image" content={thumbImage} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700%7CRoboto:400,400i,700,700i&display=swap" rel="stylesheet" />
