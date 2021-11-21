@@ -10,6 +10,7 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/dark-horse.jpeg
+thumb_img_path: /images/dark-horse.jpeg
 ---
 ![](https://images.pexels.com/photos/6134690/pexels-photo-6134690.jpeg?auto=compress\&cs=tinysrgb\&h=750\&w=1260)
 
