@@ -11,9 +11,7 @@ seo:
   extra: []
 layout: post
 ---
-##
-
-![](https://images.pexels.com/photos/6134690/pexels-photo-6134690.jpeg)
+![](https://images.pexels.com/photos/6134690/pexels-photo-6134690.jpeg?auto=compress\&cs=tinysrgb\&h=750\&w=1260)
 
 《黑馬思維》作者哈佛大學教授陶德．羅斯（Todd Rose）想告訴我們：
 
