@@ -3,7 +3,6 @@ title: 《黑馬思維》個人化的成功，就是兼顧實現自我和成就�
 date: '2021-11-21'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
