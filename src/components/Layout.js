@@ -60,7 +60,7 @@ export default class Body extends React.Component {
             }
             return <meta key={index} {...nameAttr} content={value} />;
         });
-        const thumbImage
+        const thumbImageUrl = 
         const footer = _.get(config, 'footer');
         const hasSubscribe = _.get(footer, 'has_subscribe');
 
