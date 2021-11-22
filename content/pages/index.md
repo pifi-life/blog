@@ -17,7 +17,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: PIFI.LIFE
-  description: 兼顧理想與現實的生活方案
+  description: 兼顧理想與現實的生活風格
   extra:
     - name: 'og:type'
       value: website
