@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: PIFI.LIFE
+      value: PIFI.LIFE 兼顧理想與現實的生活風格
     - name: 'twitter:description'
       value: 兼顧理想與現實的生活風格
     - name: 'twitter:image'
