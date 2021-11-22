@@ -23,7 +23,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: PIFI.LIFE
+      value: PIFI.LIFE 兼顧理想與現實的生活風格
       keyName: property
     - name: 'og:description'
       value: 兼顧理想與現實的生活風格
