@@ -66,5 +66,5 @@ excerpt: >-
 > Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice, and most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
 
 史蒂夫說的幾乎就是「黑馬思維」。
- 
+
 最後，讓我們從《黑馬思維》帶走一句話：「**個人化的成功，就是兼顧實現自我和成就卓越。**」筆者認為「實現自我」就是追尋「理想」，而「成就卓越」就是取得（一定程度的）「現實」成果。所以，**個人化的成功和幸福，是兼顧理想與現實的，也就是從事理想的志業並且同時取得現實的成果**。
