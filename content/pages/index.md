@@ -17,7 +17,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: PIFI.LIFE
-  description: The preview of the Ampersand theme
+  description: 兼顧理想與現實的
   extra:
     - name: 'og:type'
       value: website
