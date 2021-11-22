@@ -23,7 +23,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: PIFI.LIFE
       keyName: property
     - name: 'og:description'
       value: The preview of the Ampersand theme
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: PIFI.LIFE
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
     - name: 'twitter:image'
