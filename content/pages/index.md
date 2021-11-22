@@ -16,7 +16,7 @@ intro_actions:
 has_more_link: true
 more_link_text: 繼續閱讀
 seo:
-  title: PIFI.LIFE
+  title: PIFI.LIFE 兼顧理想與現實的生活風格
   description: 兼顧理想與現實的生活風格
   extra:
     - name: 'og:type'
