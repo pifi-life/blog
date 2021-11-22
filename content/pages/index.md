@@ -7,7 +7,7 @@ intro_content: >-
   There also exists a dedicated about page where you can write more about
   yourself for those who are interested.
 intro_actions:
-  - label: 繼續閱讀
+  - label: Learn More
     url: /about
     style: primary
   - label: Contact
