@@ -26,7 +26,7 @@ seo:
       value: PIFI.LIFE
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: 兼顧理想與現實的生活風格
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:title'
       value: PIFI.LIFE
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: 兼顧理想與現實的生活風格
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
