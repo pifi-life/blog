@@ -14,7 +14,7 @@ intro_actions:
     url: /contact
     style: secondary
 has_more_link: true
-more_link_text: Read more
+more_link_text: 繼續閱讀
 seo:
   title: PIFI.LIFE
   description: 兼顧理想與現實的生活風格
