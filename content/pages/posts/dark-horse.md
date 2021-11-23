@@ -46,8 +46,8 @@ excerpt: >-
 
 #### 持續往最「陡」的斜坡攀爬，就會抵達頂峰
 
-![Gradient Ascent](/images/Visualization_of_two_dimensions_of_a_NK_fitness_landscape.png)  
-*圖片來源：[Wikipedia](https://en.wikipedia.org/wiki/Fitness_landscape)*
+![Gradient Ascent](/images/Visualization_of_two_dimensions_of_a_NK_fitness_landscape.png)\
+*圖片來源：*[*Wikipedia*](https://en.wikipedia.org/wiki/Fitness_landscape)
 
 「黑馬思維」的實踐就像去攀登沒有人爬過的山，在數不清的山坡中尋找抵達山頂的路線。最有效的策略（之一）是，在起點環顧周遭的山坡，選擇最陡的一座，朝那個方向爬一陣子，然後停下來，再從這個新的高度環顧四周，看看是否有更好的攀爬點─更陡的方向。這個流程持續重複，就會越爬越高，最後抵達山頂。最陡的山坡指的就是「黑馬思維」中自己的「動力」和「選擇」，用最適合自己的「策略」攻頂這每一個陡坡，終究可以攻頂「未知的目的地」。
 
@@ -61,6 +61,8 @@ excerpt: >-
 #### 個人化成功＝自我實現＝幸福＝處境契合心性
 
 《黑馬思維》提到「**個人化的成功**」就是追尋「**自我實現**」，「**自我實現**」就是處在「**幸福**」的狀態，而「**幸福**」就是讓「**處境契合自己的心性**」，不只是心情歡愉而已。所以不管我們要「成功」還是「幸福」，我們都必須努力地讓自己的處境更契合自己獨特的個性、天賦和能力，而不是別人的眼光或框架。
+
+![](/images/Cover_SteveJobs.jpeg)
 
 蘋果電腦共同創辦人史蒂夫．賈伯斯（Steven Jobs）在 2005 年史丹佛大學畢業典禮向畢業生致詞：
 
