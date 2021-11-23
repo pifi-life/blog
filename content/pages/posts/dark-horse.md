@@ -14,8 +14,8 @@ excerpt: >-
   《黑馬思維》作者哈佛大學教授陶德．羅斯（Todd
   Rose）想讓我們知道，在新的個人化時代，我們需要告別舊的標準化時代的教條「成功就是擁有財富和地位」，並且勇敢地去追尋個人化的成功─兼顧自我實現和成就卓越。
 ---
-![](/images/dark-horse.jpg)  
-*圖片來源：[Pexels](https://www.pexels.com/photo/silhouette-of-2-men-riding-horses-during-sunset-6134690/)*
+![](/images/dark-horse.jpg)\
+*圖片來源：*[*Pexels*](https://www.pexels.com/photo/silhouette-of-2-men-riding-horses-during-sunset-6134690/)
 
 《黑馬思維》作者哈佛大學教授陶德．羅斯（Todd Rose）想讓我們知道，
 
@@ -25,7 +25,7 @@ excerpt: >-
 
 在主流價值中，我們通常認為成功的模式就是按部就班地追求財富和地位，於是我們會─
 
-*   **忽略內心裡的動力**。如果想要成功，就要就讀頂尖的大學，然後去大型的跨國公司上班，最後再爭取到最優渥的工作職位。
+*   **忽略內心裡的動力**。如果想要成功，就要就讀頂尖的大學，然後去大型的跨國公司上班，最後再爭取到盡可能優渥的工作職位。
 *   **忽略個人化的選擇**。如果想要成功，就要選擇主流價值推崇的道路。
 *   **忽略個人化的策略**。如果想要成功，就要在競爭中堅持到底，做一樣的事情做得比別人更好。
 *   **知道自己的目的地**。如果想要成功，就要儘早確立目標，並且要在計劃的時間完成預定的進度。
@@ -63,8 +63,8 @@ excerpt: >-
 
 《黑馬思維》提到「**個人化的成功**」就是追尋「**自我實現**」，「**自我實現**」就是處在「**幸福**」的狀態，而「**幸福**」就是讓「**處境契合自己的心性**」，不只是心情歡愉而已。所以不管我們要「成功」還是「幸福」，我們都必須努力地讓自己的處境更契合自己獨特的個性、天賦和能力，而不是別人的眼光或框架。
 
-![](/images/Cover_SteveJobs.jpeg)  
-*圖片來源：[CNN](https://edition.cnn.com/2021/06/07/world/steve-jobs-commencement-speech-stanford-2005-spc-intl/)*
+![](/images/Cover_SteveJobs.jpeg)\
+*圖片來源：*[*CNN*](https://edition.cnn.com/2021/06/07/world/steve-jobs-commencement-speech-stanford-2005-spc-intl/)
 
 蘋果電腦共同創辦人史蒂夫．賈伯斯（Steven Jobs）在 2005 年史丹佛大學畢業典禮向畢業生致詞：
 
