@@ -47,7 +47,7 @@ excerpt: >-
 #### 持續往最「陡」的斜坡攀爬，就會抵達頂峰
 
 ![Gradient Ascent](/images/Visualization_of_two_dimensions_of_a_NK_fitness_landscape.png)  
-圖片來源：[Wikipedia](https://en.wikipedia.org/wiki/Fitness_landscape)
+*圖片來源：[Wikipedia](https://en.wikipedia.org/wiki/Fitness_landscape)
 
 「黑馬思維」的實踐就像去攀登沒有人爬過的山，在數不清的山坡中尋找抵達山頂的路線。最有效的策略（之一）是，在起點環顧周遭的山坡，選擇最陡的一座，朝那個方向爬一陣子，然後停下來，再從這個新的高度環顧四周，看看是否有更好的攀爬點─更陡的方向。這個流程持續重複，就會越爬越高，最後抵達山頂。最陡的山坡指的就是「黑馬思維」中自己的「動力」和「選擇」，用最適合自己的「策略」攻頂這每一個陡坡，終究可以攻頂「未知的目的地」。
 
