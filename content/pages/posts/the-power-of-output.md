@@ -12,7 +12,7 @@ seo:
 layout: post
 ---
 ![](/images/books-shelves-architecture-wood.jpg)  
-*圖片來源：Pexels*
+*圖片來源：[Pexels](https://www.pexels.com/photo/ancient-antique-architectural-design-architecture-442420)*
 
 《最高學以致用法》作者精神科醫師樺澤紫苑想讓我們知道，
 
