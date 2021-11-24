@@ -1,6 +1,5 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
 date: '2021-11-24'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
