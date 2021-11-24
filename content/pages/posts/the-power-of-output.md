@@ -1,8 +1,6 @@
 ---
 title: 《最高學以致用法》
 date: '2021-11-24'
-thumb_img_alt: lorem-ipsum
-content_img_alt: lorem-ipsum
 thumb_img_path: /images/books-shelves-architecture-wood.jpg
 excerpt: lorem-ipsum
 seo:
