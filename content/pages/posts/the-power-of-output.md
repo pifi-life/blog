@@ -12,7 +12,7 @@ seo:
 layout: post
 ---
 ![](/images/books-shelves-architecture-wood.jpg)  
-*圖片來源：*
+*圖片來源：Pexels*
 
 《最高學以致用法》作者精神科醫師樺澤紫苑想讓我們知道，
 
