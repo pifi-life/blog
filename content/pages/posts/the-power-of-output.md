@@ -9,7 +9,6 @@ seo:
   description: ''
   robots: []
   extra: []
-thumb_img_path: /images/books-shelves-architecture-wood.jpg
 layout: post
 ---
 ![](/images/books-shelves-architecture-wood.jpg)\
