@@ -2,7 +2,7 @@
 title: 《最高學以致用法》
 date: '2021-11-24'
 thumb_img_path: /images/books-shelves-architecture-wood.jpg
-excerpt: lorem-ipsum
+excerpt: 《最高學以致用法》作者精神科醫師樺澤紫苑想讓我們知道，
 seo:
   title: ''
   description: ''
