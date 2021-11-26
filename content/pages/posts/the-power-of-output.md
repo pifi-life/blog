@@ -13,6 +13,7 @@ seo:
 layout: post
 ---
 ![](/images/the-power-of-output.jpg)
+*圖片來源：[Pexels](https://www.pexels.com/photo/silhouette-of-2-men-riding-horses-during-sunset-6134690/)*
 
 《最高學以致用法》作者精神科醫師樺澤紫苑想讓我們知道，
 
