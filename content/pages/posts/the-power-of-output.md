@@ -11,7 +11,7 @@ seo:
   extra: []
 layout: post
 ---
-![](/images/the-power-of-output.jpg)
+
 *圖片來源：*[*Pexels*](https://www.pexels.com/photo/assorted-books-on-shelf-1290141)
 
 《最高學以致用法》作者精神科醫師樺澤紫苑想讓我們知道，
