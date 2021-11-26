@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 ---
+**![](/images/the-power-of-output.jpg)
 
 *圖片來源：*[*Pexels*](https://www.pexels.com/photo/assorted-books-on-shelf-1290141)
 
