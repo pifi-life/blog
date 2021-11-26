@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/the-power-of-output.jpg
 ---
 **![](/images/the-power-of-output.jpg)
 
