@@ -15,7 +15,7 @@ excerpt: >-
   Rose）想讓我們知道，在新的個人化時代，我們需要告別舊的標準化時代的教條「成功就是擁有財富和地位」，並且勇敢地去追尋個人化的成功─兼顧自我實現和成就卓越。
 ---
 ![](/images/dark-horse.jpg)
-*圖片來源：[Pexcels*
+*圖片來源：[Pexcels](https://www.pexels.com/photo/silhouette-of-2-men-riding-horses-during-sunset-6134690/)*
 
 《黑馬思維》作者哈佛大學教授陶德．羅斯（Todd Rose）想讓我們知道，
 
