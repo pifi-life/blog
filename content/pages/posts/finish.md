@@ -1,6 +1,5 @@
 ---
 title: 《完成》不完美地前進比完美更重要
-subtitle: lorem-ipsum
 date: '2021-11-30'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
