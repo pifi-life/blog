@@ -11,12 +11,63 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/finish.jpg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+《完成》作者《紐約時報》暢銷作家喬恩．阿考夫（Jon Acuff）想讓我們知道，
+\`\`\`
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+開始的第一天不是達成目標最重要的日子，不再追求完美的那一天才是。比完美更重要的是「不完美地前進」。多數人花了大半輩子想像和做夢。開始做很好，但是未來是屬於把事情「完成」的人的。
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+\`\`\`
+
+### 完美主義好棒棒？
+
+我們通常很容易認為「完美主義」是一種「追求極致」的正向思維，於是我們認為─
+
+*   追求卓越就是要完美。身為一個以卓越為目標的人就是要追求完美的目標，不然就太不積極了。
+
+*   不完美就是失敗。如果一件事情沒有依造自己心中完美的劇情發展，事情就是失敗了。
+
+*   要嘛不做，要做就要完美。如果沒有為了一個完美的目標努力的話，乾脆就不要做了，因為也不會有什麼太大的成果。
+
+### 完美主義讓人無法「完成」目標
+
+然而，《完成》告訴我們，完美主義往往讓人追求無法企及的標準，並且遇到困難的時候就會想要放棄。完美主義就是我們「無法完成」目標的主要元兇（之一）。我們難以逃離完美主義，甚至很容易信任它，因為它會對我們的內心說各式美麗的謊話─
+
+*   如果事情不完美，就放棄吧。
+
+*   你的目標應該要大一點。
+
+*   你全部都做得來。
+
+### 完美主義 ≠ 追求極致
+
+《完成》裡提到的「完美主義」其實並不是那種職人精神般的「追求極致」，完美主義是「極度害怕失敗」的一種心態。它們兩個的共通點都是想要接近完美的境界，不同的是考量實際情況的程度差別。「完美主義」會設定不切實際的目標，明明才剛剛開始慢跑，不過卻計劃要參加全長 42 公里的全程馬拉松。而「追求極致」會設定實際的目標，明白自己目前的實際情況，持續地追求自我進步，從而追求極致。做為普通人，我們應該先專注練習不完美地前進，並且完成目標，成為能把事情「完成」的人，就可以贏過 92% 的人了。
+
+### 無論如何讓事情持續下去直到完成
+
+在日常生活中實踐《完成》的建議，我們可以─
+
+*   持續調整做事的方式。事情不順利的時候，我們要先確認目前的情況，再對症下藥去「調整」做事的方法。有放棄的念頭的時候，去想著如何調整而不是放棄。如果我們不回頭檢視進度，就無法做出調整。我們就不能從錯誤中學習。我們無法改善，最終也無法完成。
+
+*   把目標直接砍半。我們在訂定目標的時候總是特別樂觀，然後在事情不順（有時候只是因為目標太大）的時候卻特別悲觀。要避免這種一下特別樂觀、一下特別悲觀然後放棄目標的窘境，把目標直接砍半是最簡單有效的方法。例如，三個月減重四公斤的目標，可以重新設定成三個月減重兩公斤。重點是讓減重計劃可以持續進行下去，所以剩下的兩公斤可以在下一個三個月減掉。
+
+*   捨棄次要目標。要達成新目標只有一種方法，就是投入我們最寶貴的資源─時間。我們的時間是有限的，我們從來都不願承認，要做好一件事情，就必須犧牲另外一件事情。關於「完成」目標，我們有兩種選擇：
+
+*   試圖做超過我們能應付的事，然後失敗。
+
+*   選擇捨棄某些事情，並且集中火力完成最重要的目標。
+
+20 世紀最重要的哲學家之一美籍猶太裔政治學家漢娜．鄂蘭（​​Hannah Arendt）曾經說過：
+
+\`\`\`
+
+要繼續生存，就必須逃離「追求完美」這種死法。
+
+\`\`\`
+
+漢娜說的幾乎就是《完成》希望我們避免的完美主義牢籠。
+
+### 比完美更重要的是不完美地前進
+
+讓我們從《完成》帶走一句話：「比完美更重要的是不完美地前進。」完美主義讓我們容易放棄目標，持續不完美地前進才可以「完成」目標，「完成」才會成長，「成長」才能成功，而「成功」就是「幸褔」。「幸福」就是「完成」一連串對自己有意義的人生目標。
