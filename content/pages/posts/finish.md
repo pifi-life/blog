@@ -2,7 +2,7 @@
 title: 《完成》不完美地前進比完美更重要
 date: '2021-11-30'
 thumb_img_path: /images/finish.jpg
-excerpt: lorem-ipsum
+excerpt: 《完成》作者《紐約時報》暢銷作家喬恩．阿考夫（Jon Acuff）想讓我們知道，
 seo:
   title: ''
   description: ''
