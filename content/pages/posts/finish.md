@@ -1,7 +1,7 @@
 ---
 title: 《完成》不完美地前進比完美更重要
 date: '2021-11-30'
-thumb_img_path: /images/dark-horse.jpg
+thumb_img_path: /images/finish.jpg
 excerpt: lorem-ipsum
 seo:
   title: ''
