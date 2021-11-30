@@ -10,7 +10,7 @@ seo:
   extra: []
 layout: post
 ---
-![](/images/finish.jpg)
+![](/images/finish.jpg)  
 
 
 《完成》作者《紐約時報》暢銷作家喬恩．阿考夫（Jon Acuff）想讓我們知道，
