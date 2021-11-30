@@ -11,7 +11,7 @@ seo:
 layout: post
 ---
 ![](/images/finish.jpg)  
-*圖片來源：P*
+*圖片來源：Pex*
 
 《完成》作者《紐約時報》暢銷作家喬恩．阿考夫（Jon Acuff）想讓我們知道，
 
