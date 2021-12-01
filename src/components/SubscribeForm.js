@@ -29,7 +29,7 @@ export default class SubscribeForm extends React.Component {
                 <div className="form-group">
                     <label>
                         <span className="screen-reader-text">Email address</span>
-                        <input type="email" name="email" placeholder="Your email address" required />
+                        <input type="email" name="email" placeholder="你的 Email" required />
                     </label>
                 </div>
                 <button className="button" type="submit">訂閱</button>
