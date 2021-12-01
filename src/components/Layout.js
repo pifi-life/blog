@@ -8,7 +8,7 @@ import Header from './Header';
 import Subscribe from './Subscribe';
 import Footer from './Footer';
 
-export default class Body extends React.Component {
+export class Body extends React.Component {
     constructor(props) {
         super(props);
         this.handleVideoEmbeds = this.handleVideoEmbeds.bind(this);
@@ -98,3 +98,5 @@ export default class Body extends React.Component {
         );
     }
 }
+
+export default 
