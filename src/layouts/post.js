@@ -19,6 +19,7 @@ export class Post extends React.Component {
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%A, %B %e, %Y');
         const markdownContent = _.get(page, 'markdown_content');
+        const domain = _.trim(_.get(config, 'domain', ''), '/');
 
         return (
             <Layout page={page} config={config}>
