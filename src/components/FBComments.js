@@ -15,4 +15,4 @@ const FBComments = ({ url }) => {
   )
 }
 
-export default FbComments;
+export default FBComments;
