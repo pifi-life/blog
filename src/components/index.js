@@ -10,6 +10,7 @@ import SubscribeForm from './SubscribeForm';
 
 export {
     ActionLink,
+    FBComments,
     Footer,
     FormField,
     Header,
@@ -21,6 +22,7 @@ export {
 
 export default {
     ActionLink,
+    FBComments,
     Footer,
     FormField,
     Header,
