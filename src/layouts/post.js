@@ -31,6 +31,7 @@ export class Post extends React.Component {
                         <h1 className="post-title">{title}</h1>
                         {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                     </header>
+                    
                     {image && (
                         <div className="post-thumbnail">
                             <img src={withPrefix(image)} alt={imageAlt} className="thumbnail" />
