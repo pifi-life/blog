@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>
                     {this.helmetHeadComponents}
-                    
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GLKVEMVVTN"></script>
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
