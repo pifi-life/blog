@@ -1,3 +1,7 @@
 .likes {
     display: block !important;
 }
+
+.likes > span:first-child {
+    width:  100%!important;
+}
