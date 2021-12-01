@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import styles from './FBComments.module.css'
 
-const FbComments = ({ url }) => {
+const FBComments = ({ url }) => {
   useEffect(() => {
     if(window.FB) {
       window.FB.XFBML.parse();
