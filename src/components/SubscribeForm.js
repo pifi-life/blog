@@ -32,7 +32,7 @@ export default class SubscribeForm extends React.Component {
                         <input type="email" name="email" placeholder="Your email address" required />
                     </label>
                 </div>
-                <button className="button" type="submit">Subscribe</button>
+                <button className="button" type="submit">訂閱</button>
             </form>
         );
     }
