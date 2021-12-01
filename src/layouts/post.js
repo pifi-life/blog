@@ -24,6 +24,7 @@ export class Post extends React.Component {
         return (
             <Layout page={page} config={config}>
                 <article className="post post-full">
+                    <FBLikes url={`${domain}${this.props.router.asPath}`} />
                     <header className="post-header inner-md">
                         <div className="post-meta">
                             <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
