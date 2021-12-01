@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import { withRouter } from 'next/router'
 
 import { FBComments, Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
