@@ -74,6 +74,7 @@ export class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <meta name="title" content={seoTitle} />
                     <meta name="description" content={seoDescription} />
+                    <meta property="fb:app_id" content="350554330206080" />
                     <meta property="og:type" content="website" />
                     <meta property="og:url" content={domain + this.props.router.asPath} />
                     <meta property="og:title" content={seoTitle} />
