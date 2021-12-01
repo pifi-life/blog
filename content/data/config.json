@@ -25,7 +25,7 @@
         "has_subscribe": true,
         "subscribe_title": "訂閱免費電子報",
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
-        "subscribe_action": "/訂閱"
+        "subscribe_action": "/subscribe-success"
     },
     "domain": "https://pifi-life.netlify.app"
 }
