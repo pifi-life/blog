@@ -41,3 +41,5 @@ export default class Post extends React.Component {
         );
     }
 }
+
+export default withRouter(Post)
