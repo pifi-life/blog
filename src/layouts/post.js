@@ -6,7 +6,7 @@ import { withRouter } from 'next/router'
 import { FBComments, Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
-export default class Post extends React.Component {
+export class Post extends React.Component {
     render() {
         const data = _.get(this.props, 'data');
         const config = _.get(data, 'config');
