@@ -1,4 +1,4 @@
-import styles from './'
+import styles from './FBLikes.module.css'
 
 export const FBLikes = ({ url }) => {
     return (
