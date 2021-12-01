@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import styles from './FbComments.module.css'
+import styles from './FBComments.module.css'
 
 const FbComments = ({ url }) => {
   useEffect(() => {
