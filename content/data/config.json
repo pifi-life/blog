@@ -24,7 +24,8 @@
         ],
         "has_subscribe": true,
         "subscribe_title": "訂閱免費電子報",
-        "subscribe_action": "/subscribe-success"
+        "subscribe_action": "/subscribe-success",
+        "subscribe_content": "現在就訂閱"
     },
     "domain": "https://pifi-life.netlify.app"
 }
