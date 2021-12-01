@@ -35,6 +35,7 @@ export default class MyDocument extends Document {
                     {this.helmetHeadComponents}
                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GLKVEMVVTN"></script>
                     <script async src="/js/ga.js" />
+                    <script async defer crossOrigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=350554330206080&autoLogAppEvents=1" nonce="EQtFXoG7"></script>
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
