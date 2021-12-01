@@ -38,7 +38,6 @@ export default class Post extends React.Component {
                     )}
                     {markdownContent && <div className="post-content inner-md">{markdownify(markdownContent)}</div>}
                 </article>
-                <div class="fb-comments" data-href="https://pifi.life/posts/finish/" data-width="750" data-numposts="5"></div>
             </Layout>
         );
     }
