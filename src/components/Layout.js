@@ -76,6 +76,7 @@ export class Body extends React.Component {
                     <meta name="description" content={seoDescription} />
                     <meta property="og:type" content="website" />
                     <meta property="og:title" content={seoTitle} />
+                    <meta property="og:title" content={seoTitle} />
                     <meta property="og:description" content={seoDescription} />
                     <meta property="og:image" content={`${domain}${thumbImage}`} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
