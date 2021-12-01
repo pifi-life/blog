@@ -36,6 +36,8 @@ export default class Post extends React.Component {
                     )}
                     {markdownContent && <div className="post-content inner-md">{markdownify(markdownContent)}</div>}
                 </article>
+                <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v12.0&appId=350554330206080&autoLogAppEvents=1" nonce="AS7Y7TdV"></script>
             </Layout>
         );
     }
