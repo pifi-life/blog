@@ -37,6 +37,7 @@ export class Post extends React.Component {
                         </div>
                     )}
                     {markdownContent && <div className="post-content inner-md">{markdownify(markdownContent)}</div>}
+                    <FbComments url={`${domain}${this.props.router.asPath}`} />
                 </article>
             </Layout>
         );
