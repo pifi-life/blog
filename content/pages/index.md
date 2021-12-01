@@ -1,11 +1,7 @@
 ---
 title: Home
 has_intro: false
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: PIFI.LIFE 兼顧理想與現實的生活風格
 intro_actions:
   - label: Learn More
     url: /about
@@ -19,27 +15,16 @@ seo:
   title: PIFI.LIFE 兼顧理想與現實的生活風格
   description: 兼顧理想與現實的生活風格
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: PIFI.LIFE 兼顧理想與現實的生活風格
-      keyName: property
-    - name: 'og:description'
-      value: 兼顧理想與現實的生活風格
-      keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: images/pifi-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: PIFI.LIFE 兼顧理想與現實的生活風格
     - name: 'twitter:description'
       value: 兼顧理想與現實的生活風格
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
+      value: images/pifi-preview.png
       relativeUrl: true
 layout: home
 ---
