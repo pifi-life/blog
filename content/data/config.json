@@ -22,7 +22,7 @@
                 "new_window": true
             }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "訂閱免費電子報",
         "subscribe_action": "/subscribe-success"
     },
