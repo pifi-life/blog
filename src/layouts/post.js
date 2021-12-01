@@ -27,6 +27,7 @@ export class Post extends React.Component {
                     <header className="post-header inner-md">
                         <div className="post-meta">
                             <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                            <FBLikes url={`${domain}${this.props.router.asPath}`} />
                         </div>
                         <h1 className="post-title">{title}</h1>
                         {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
