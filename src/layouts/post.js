@@ -38,6 +38,7 @@ export default class Post extends React.Component {
                 </article>
                 <div id="fb-root"></div>
                 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v12.0&appId=350554330206080&autoLogAppEvents=1" nonce="AS7Y7TdV"></script>
+                <div class="fb-comments" data-href="https://pifi.life/posts/finish/" data-width="750" data-numposts="5"></div>
             </Layout>
         );
     }
