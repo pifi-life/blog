@@ -99,4 +99,4 @@ export class Body extends React.Component {
     }
 }
 
-export default 
+export default withRouter(Body)
