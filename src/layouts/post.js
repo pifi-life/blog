@@ -3,7 +3,7 @@ import _ from 'lodash';
 import moment from 'moment-strftime';
 import { withRouter } from 'next/router'
 
-import { FBComments, Layout } from '../components/index';
+import { FBComments, FBLikes, Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
 export class Post extends React.Component {
@@ -31,7 +31,7 @@ export class Post extends React.Component {
                         <h1 className="post-title">{title}</h1>
                         {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                     </header>
-                    
+
                     {image && (
                         <div className="post-thumbnail">
                             <img src={withPrefix(image)} alt={imageAlt} className="thumbnail" />
