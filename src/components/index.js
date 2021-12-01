@@ -1,4 +1,5 @@
 import ActionLink from './ActionLink';
+import FBComments from './FBComments';
 import Footer from './Footer';
 import FormField from './FormField';
 import Header from './Header';
