@@ -13,7 +13,7 @@ excerpt: >-
   個人機會中心 Populace 共同創辦人暨前任哈佛大學教育研究生院職員陶德．羅斯（Todd Rose）提出的「黑馬思維」認為新時代的成功是個人化的，而「個人化的成功」就是「做最好的自己」─一、知道自己的動力。二、清楚自己的選擇。三、了解自己的策略。四、忽略自己的目的地。
 ---
 ![](/images/dark-horse-mindset.jpg)  
-*圖片來源：[Pexels](https://www.pexels.com/photo/man-in-white-dress-shirt-and-pants-sitting-on-white-table-8443448)*
+*圖片來源：[Pexels](https://www.pexels.com/photo/photo-of-man-standing-on-top-of-mountain-2577274/)*
 
 個人機會中心 [Populace](https://populace.org) 共同創辦人暨前任哈佛大學教育研究生院職員[陶德．羅斯（Todd Rose）](http://www.toddrose.com)提出的「[**黑馬思維**](https://pifi.life/posts/dark-horse/)」認為
 
