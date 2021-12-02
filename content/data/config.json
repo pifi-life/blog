@@ -1,5 +1,6 @@
 {
     "title": "PIFI",
+    "favicon": "/images/favicon.ico",
     "path_prefix": "/",
     "layout_style": "grid",
     "palette": "green",
