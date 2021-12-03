@@ -15,7 +15,7 @@ excerpt: >-
 ![](/images/dark-horse-mindset.jpg)  
 *圖片來源：[Pexels](https://www.pexels.com/photo/photo-of-man-standing-on-top-of-mountain-2577274/)*
 
-個人機會中心 [Populace](https://populace.org) 共同創辦人暨前任哈佛大學教育研究生院職員[陶德．羅斯（Todd Rose）](http://www.toddrose.com)提出的「[**黑馬思維**](https://pifi.life/posts/dark-horse/)」認為
+個人機會中心 [Populace](https://populace.org) 共同創辦人暨前任哈佛大學教育研究生院職員[陶德．羅斯（Todd Rose）](http://www.toddrose.com)提出的「[**黑馬思維**](/posts/dark-horse/)」認為
 
 > 新時代的成功是個人化的，而「個人化的成功」就是「做最好的自己」─一、知道自己的動力。二、清楚自己的選擇。三、了解自己的策略。四、忽略自己的目的地。
 
@@ -61,4 +61,4 @@ excerpt: >-
 😎 **使用相對時間，每個人完成事情的節奏都不一樣**|使用標準化時間，每個人都要在對應的時間完成特定的事情
 🤓 **個人很重要**　　　　　　　　　　　　　　　　|個人很麻煩
 
-要了解[《黑馬思維》](https://pifi.life/posts/dark-horse/)的更多細節，可以參考之前的文章[《黑馬思維》個人化的成功，就是兼顧實現自我和成就卓越](https://pifi.life/posts/dark-horse/)。當然最好是去買一本[《黑馬思維》](https://www.google.com/search?q=黑馬思維)，慢慢咀嚼。（陶德沒有業配😛）
+要了解[《黑馬思維》](/posts/dark-horse/)的更多細節，可以參考之前的文章[《黑馬思維》個人化的成功，就是兼顧實現自我和成就卓越](/posts/dark-horse/)。當然最好是去買一本[《黑馬思維》](https://www.google.com/search?q=黑馬思維)，慢慢咀嚼。（陶德沒有業配😛）
