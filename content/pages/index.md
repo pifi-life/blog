@@ -1,7 +1,7 @@
 ---
 title: Home
 has_intro: false
-intro_content: PIFI.LIFE 兼顧理想與現實的生活風格
+intro_content: PIFI 運動─兼顧幸福與金錢的生活方式
 intro_actions:
   - label: Learn More
     url: /about
@@ -12,17 +12,17 @@ intro_actions:
 has_more_link: true
 more_link_text: 繼續閱讀
 seo:
-  title: PIFI.LIFE 兼顧理想與現實的生活風格
-  description: 兼顧理想與現實的生活風格
+  title: PIFI 運動─兼顧幸福與金錢的生活方式
+  description: PIFI 是一種兼顧幸福與金錢的生活方式，讓現代人生活得更加幸福和富足。
   extra:
     - name: 'og:image'
       value: images/pifi-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
-      value: PIFI.LIFE 兼顧理想與現實的生活風格
+      value: PIFI 運動─兼顧幸福與金錢的生活方式
     - name: 'twitter:description'
-      value: 兼顧理想與現實的生活風格
+      value: PIFI 是一種兼顧幸福與金錢的生活方式，讓現代人生活得更加幸福和富足。
     - name: 'twitter:image'
       value: images/pifi-preview.png
       relativeUrl: true
