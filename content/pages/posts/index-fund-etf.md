@@ -107,7 +107,8 @@ C 公司|20%|2 億元（10 億 × 20%）
 所謂的**有錢人的思維就是把金錢投入到讓它可以成長的地方**的一種思維，而持有指數型 EFT 也是一種這樣的思維。讓我們盡可能地不要再因為金錢的難題，選擇在一個違反自己心性的地方工作或生活。
 
 ![](/images/one-punch-man.jpg)  
-**一拳超人：「我只是一個興趣使然的英雄！」**　*圖片來源：[Wikipedia](https://commons.wikimedia.org/wiki/File:Cosplayer_of_Saitama,_One_Punch-Man_Top_View_at_CWT41_20151212.jpg)*
+*圖片來源：[Wikipedia](https://commons.wikimedia.org/wiki/File:Cosplayer_of_Saitama,_One_Punch-Man_Top_View_at_CWT41_20151212.jpg)*
+> 一拳超人：「我只是一個興趣使然的英雄。」
 
 PIFI 理想生活運動的倡議就是─**做一個興趣使然的工作者、當一個參與社會經濟進步的投資者，然後成為一個提升自己和他人幸福感的共榮者，這就是幸福的 PIFI 人。**🤘
 
